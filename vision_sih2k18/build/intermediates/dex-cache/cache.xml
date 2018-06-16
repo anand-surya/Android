@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/anandsurya/.android/build-cache/0b406401891e1e481b49c35e763e53b6a3ed3947/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
+        <dex dex="/Users/anandsurya/AndroidStudioProjects/vision/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_db61892f78432728314e77114fadeaafd6303496/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anandsurya/.android/build-cache/28cab915e232578469e5c5f53ac8433538e77fb0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/anandsurya/AndroidStudioProjects/vision/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8a00df8c16a915363dbddfa143fbddeb78686cac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anandsurya/.android/build-cache/d468cbe81cf0ba075a7fed7588f54d832b8fab45/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="/Users/anandsurya/AndroidStudioProjects/vision/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e486349bb1930ba7f3954f6549de196ccaf5a481/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anandsurya/.android/build-cache/6effac5f746d192ea30f7d9be353afdbce604e55/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/anandsurya/AndroidStudioProjects/vision/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5254e8b322bb87bb6614edfd5ca3b4abca39e64e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anandsurya/.android/build-cache/0dbca5adcf5915517735d96ed4e8586602179e84/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="/Users/anandsurya/AndroidStudioProjects/vision/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_86a1c2cbf693ebbea93af32e16e8f50b2da6c573/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anandsurya/.android/build-cache/283f5e3c2dc3019c33c40359d6bb51bfb2d6a035/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/anandsurya/AndroidStudioProjects/vision/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5b1ada7721c6149223356c6b71507c51db67127b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anandsurya/.android/build-cache/db645d7d5e81466b25c511ab474b463b8f2342c8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="/Users/anandsurya/AndroidStudioProjects/vision/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_78ab4c48a7238ca43399bb65786e76a3f7c72fce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anandsurya/.android/build-cache/b1f9aa1f82c9ddeb930ad69e0b7d4d0fe5fa013f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/anandsurya/AndroidStudioProjects/vision/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d5b22241eae4dbb612ec88af41f3aecbbe8b074a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anandsurya/.android/build-cache/84447cb2980c0154c9ed57b236395a506d190162/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="/Users/anandsurya/AndroidStudioProjects/vision/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0f5fc354bd6f6bd34f75e279355a392488a52d90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anandsurya/.android/build-cache/090a1563e7d1fb7872f27f20dfeedc23599158ec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="/Users/anandsurya/AndroidStudioProjects/vision/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_27ecd5157852a829c6a418cac950c4dffe6f6797/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anandsurya/.android/build-cache/b33bbd45ac8d6d7500c0fd5347d15fd763cb8fe3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/anandsurya/AndroidStudioProjects/vision/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2bc6354ec95c35979dbc5e82a4271b9bb7378048/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anandsurya/AndroidStudioProjects/vision/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/anandsurya/AndroidStudioProjects/vision/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_13b5e2143a7c8b21c1aecbdc2567a454a97d6db3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anandsurya/AndroidStudioProjects/vision/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08e8d8b666714c447c20b18f79c510764312b1f4">
+        <dex dex="/Users/anandsurya/AndroidStudioProjects/vision/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_406a0def58a5f175212bdd0d7491aeba8dad150f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anandsurya/.android/build-cache/947494b047ca62f0e3765938d3670149b2d260b2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e684205744f814a73b7752545e0661330415c9e">
+        <dex dex="/Users/anandsurya/AndroidStudioProjects/vision/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5df7eacd8a32c55796ba2f4c01236d526b5a1965/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anandsurya/.android/build-cache/fd2c7204c94047fbee802b00a398bdb5a962f635/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="/Users/anandsurya/AndroidStudioProjects/vision/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f083f62cc08dcb3cd3d563de1ca3aeb1eddca30d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anandsurya/.android/build-cache/1f19bbbf299f335145f7f602470228f973f26f69/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="/Users/anandsurya/AndroidStudioProjects/vision/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fbb1df2545067ffa8bd35ea130908272cebd8f1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anandsurya/.android/build-cache/f2a45aa098b61630ace608cfbafeb105748ed719/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/anandsurya/AndroidStudioProjects/vision/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_010becb18c3d31b80260f2e8c5200883658ec299/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anandsurya/.android/build-cache/977edb9dfe563479a20bf14a2d34bf5e6887ab99/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/anandsurya/AndroidStudioProjects/vision/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d773cca2c7f87d1efe496c21fd6f281e94185f55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anandsurya/.android/build-cache/3ed2ef881c44bdb31c09217971d507a5f0a0b17c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/anandsurya/AndroidStudioProjects/vision/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_137665280db05ca046271bf8a40673aa37a0088a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anandsurya/.android/build-cache/79601abe1c702b26f961b5a669c5f715d227fd3f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/anandsurya/AndroidStudioProjects/vision/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8f12ad522222e7ea000aa8bdca5a6aba34132a09/classes.dex" />
+    </item>
+
+</items>
